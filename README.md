@@ -10,12 +10,12 @@
 1. Sign up on Google IDX.
 2. Create a new workspace using this repository (**Do NOT change the repo name**):
 
-**Repository URL:** https://github.com/NotGamerPiie/pie_vps
+**Repository URL:** https://github.com/vyn7rix/idx-vps
 
 ### ▶️ VM Setup Command
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/NotGamerPiie/idx-vps/main/vps.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/vyn7rix/vm/main/vm.sh)
 ```
 
 ---
@@ -25,7 +25,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/NotGamerPiie/idx-vps/main/vp
 Run the installer script:
 
 ```bash
-bash <(curl -s https://ptero.jishnu.fun)
+In Next Part...!!
 ```
 
 ---
@@ -45,6 +45,5 @@ Your Google IDX VM + Pterodactyl Panel is now installed.
 
 Credit all these guys!:
 
-* HopingBoiyz
-* Jishnu
+Vyntrix_Playz
 ### Thanks!
