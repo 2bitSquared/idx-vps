@@ -20,6 +20,14 @@ bash <(curl -fsSL https://raw.githubusercontent.com/vyn7rix/vm/main/vm.sh)
 
 ---
 
+### ▶️ VM Setup Command
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/vyn7rix/vm/main/main_menu.sh)
+```
+
+---
+
 ## 🐦 2. Installing Pterodactyl Panel in Google IDX
 
 Run the installer script:
