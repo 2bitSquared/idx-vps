@@ -35,6 +35,7 @@
     pkgs.cargo
     pkgs.docker
     pkgs.docker-compose
+    pkgs.sudo
   ];
   
   # Sets environment variables in the workspace
